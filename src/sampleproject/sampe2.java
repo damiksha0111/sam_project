@@ -1,5 +1,6 @@
 package sampleproject;
 
-public class sampe2 {
-rtgvbgtybhyjn
+public class sampe2{
+	main 
+	
 }
