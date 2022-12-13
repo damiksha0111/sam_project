@@ -1,6 +1,9 @@
 package sampleproject;
 
 public class sampe2{
-	main 
-	fctgfctfvhy
+	public static void main(String a[])
+	{
+		System.out.println("Hiii");
+	
+	}
 }
